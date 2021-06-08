@@ -16,9 +16,9 @@ def runAnalysis(input_file, output_file, file_type):
     # Endpoint URL
     endpoint = r"https://digitalpathology.cognitiveservices.azure.com/"
     # Subscription Key
-    apim_key = "28d6ceb36cb942c78f9d0ebc95f36bb0"
+    apim_key = "Paste your Form recognizer cognitive service API key here."
     # Model ID
-    model_id = "206f7a9d-360c-46c4-bcf2-2d4741488fcb"
+    model_id = "Paste model ID here which will given by Form recognizer here."
     # API version
     API_version = "v2.1-preview.3"
 
